@@ -1,0 +1,41 @@
+
+        h1 {
+            border: 5px solid rgb(104, 197, 92);
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-right: 150px;
+            margin-left: 80px;
+            background-image: url("IMG.jpg");
+            padding: 150px;
+            color: rgb(68, 212, 116);
+            text-align: center;
+            font-size: 40px
+           }
+
+           P {
+            border: 10px dotted rgb(8, 151, 187);
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-right: 150px;
+            margin-left: 80px;
+            background-color: rgb(214, 245, 255);
+            padding: 150px;
+            color: rgb(19, 0, 190);
+            text-align: center;
+            font-size: 40px;
+            font-family: Arial;
+           }
+
+           h2 {
+            border: 10px dashed rgb(255, 190, 91);
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-right: 150px;
+            margin-left: 80px;
+            background-color: rgb(255, 218, 170);
+            padding: 150px;
+            text-align: center;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 30px;
+            color: rgb(235, 141, 0);
+           }
